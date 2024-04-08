@@ -121,5 +121,13 @@ a{
         color: #fff;
         margin-bottom: 50px;
     }
-    /* <div class="approach-text">Our Approach</div>
-            <div class="sub-approach-text */
+
+    .strength-section{
+        margin-top: 10px;
+        background-color: #4b535b;
+        color: #fff;
+        padding: 50px 0;
+    }
+    .navbar-toggler-icon {
+        background-color: #ff0000; /* Change this to your desired color */
+      }
