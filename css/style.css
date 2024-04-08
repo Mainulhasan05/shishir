@@ -109,9 +109,17 @@ a{
         margin-bottom: 20px;
         font-weight: 600;
     }
-
-  /* id="commitment">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="commitment-text">Our Commitment</div>
-            <div class="sub-commitment-text" */
+    .approach-text {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #fff;
+    }
+    .sub-approach-text {
+        font-size: 1rem;
+        margin-bottom: 20px;
+        font-weight: 500;
+        color: #fff;
+        margin-bottom: 50px;
+    }
+    /* <div class="approach-text">Our Approach</div>
+            <div class="sub-approach-text */
